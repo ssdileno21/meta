@@ -1,0 +1,15 @@
+C:\projects\meta\testeMeta\testeMeta\bin\Debug\testeMeta.exe.config
+C:\projects\meta\testeMeta\testeMeta\bin\Debug\testeMeta.exe
+C:\projects\meta\testeMeta\testeMeta\bin\Debug\testeMeta.pdb
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.Properties.Resources.resources
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.csproj.GenerateResource.cache
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.csproj.CoreCompileInputs.cache
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.exe
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.pdb
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.main.resources
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.views.orcamento.resources
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.views.produtos.resources
+C:\projects\meta\testeMeta\testeMeta\bin\Debug\App_Data\bd_meta.mdf
+C:\projects\meta\testeMeta\testeMeta\bin\Debug\App_Data\bd_meta_log.ldf
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.views.clientes.resources
+C:\projects\meta\testeMeta\testeMeta\obj\Debug\testeMeta.csprojAssemblyReference.cache
